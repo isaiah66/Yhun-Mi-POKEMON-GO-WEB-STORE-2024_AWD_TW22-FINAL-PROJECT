@@ -54,6 +54,7 @@ body{
 }
 .nav-menu ul li{
     list-style-type: none;
+    margin-right: 20rem;
     transition: transform 0.3s;
 }
 .nav-menu ul li:hover{
